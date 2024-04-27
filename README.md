@@ -1,5 +1,5 @@
 # Gorilla Tag Steam Integration (ONLY WORKS FOR STEAM GTAG!)
-This mod enables support for steam's **"Join Game"** and **"Invite To Game"** buttons.
+This mod enables support for steam's **"Join Game"** and **"Invite To Game"** buttons. \
 **(They must also have the mod installed in order for them to join.)**
 
 # How to use
